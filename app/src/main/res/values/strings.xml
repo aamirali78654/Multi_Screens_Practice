@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Multi_Screens</string>
+    <string name="Button">Order Now</string>
+    <string name="editText">1st Order</string>
+    <string name="editText2">2nd Order</string>
+    <string name="editText3">3rd Order</string>
+    <string name="textview2">Please Wait . . .!</string>
+
+</resources>
